@@ -8,7 +8,7 @@
 
 
 
-[Saas Notion Clone](https://www.youtube.com/watch?v=A3l6YYkXzzg)
+
 
 ### Features in this application.
 - 🤯 Multivendor B2B2B Saas
